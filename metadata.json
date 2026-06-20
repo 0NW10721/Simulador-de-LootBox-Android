@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de LootBox",
+  "description": "Simulador dinâmico de Lootbox com belas animações, recompensas customizáveis e histórico completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
